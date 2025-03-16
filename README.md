@@ -3,7 +3,7 @@ ShialewebOS GNU/Linux
 <br>
 <a href="https://github.com/shialewebos/shialewebos/wiki"> Mas informacion en nuestra wiki. </a> 
 <br>
-# La Comunidad De Linuxeros En Mexico
+# El Sistema Operativo De Mexico Para Los Mexicanos
 
 [![Participa En Nuestro Canal De Discord https://shialeweb.com/discord](https://img.shields.io/badge/chat-on%20discord-blue.svg)](https://Shialeweb.com/discord)
 
