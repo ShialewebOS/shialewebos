@@ -1,5 +1,5 @@
 # Shialeweb OS
-ShialewebOS GNU/Linux 
+GNU/Linux ShialewebOS 
 <br>
 <a href="https://github.com/shialewebos/shialewebos/wiki"> Mas informacion en nuestra wiki. </a> 
 <br>
